@@ -1,4 +1,4 @@
-package Personal_projects.Cryptography_projects;
+package Personal_projects.Cryptography_projects.myCryptographyProjects;
 import java.util.Scanner;
 
 public class Request {

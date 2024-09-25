@@ -1,6 +1,4 @@
-package Personal_projects.Cryptography_projects;
-
-
+package Personal_projects.Cryptography_projects.myCryptographyProjects;
 
 public class CeasarCipher {
     public char[] arrayOfSmolLetters = "abcdefghijklmnopqrstuvwxyz".toCharArray();
